@@ -1,10 +1,7 @@
 # Project-Client-Server-Ramasami
 
 This package consists of an application client-server which has 3 functions:
-1.Item 1
-2.Item 2
-3.Item 3
-1.A request to obtain a document which is available on the server.
+Markup: 1. A request to obtain a document which is available on the server.
 2.A request to obtain the lost of documents available on the server.
 3.A request to delete a document from the list on the server.
 
