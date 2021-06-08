@@ -1,6 +1,6 @@
 # Project-Client-Server-Ramasami
 
-This package consists of an application client-server which has 3 functions:\n
+This package consists of an application client-server which has 3 functions:/n
 1)A request to obtain a document which is available on the server.
 2)A request to obtain the lost of documents available on the server.
 3)A request to delete a document from the list on the server.
